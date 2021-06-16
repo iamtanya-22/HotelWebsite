@@ -32,7 +32,7 @@
      }
      .text-primary
      {
-         color: #f7c08a;
+         color: #f69a3e;
      }
      .lead
      {
@@ -50,7 +50,7 @@
      }
      .btn:hover
      {
-       background:#f7c08a ;
+       background:#f69a3e ;
        color:#333;
      }
      .btn-light
@@ -70,7 +70,7 @@
      }
      .bg-primary
      {
-        background:#f7c08a;
+        background:#f69a3e;
          color:#333;
      }
      .clr
@@ -120,12 +120,12 @@
      #navbar ul li a:hover,#navbar ul li a.current
      {
          background: #444;
-         color: #f7c08a;
+         color: #f69a3e;
      }
      /*Showcase*/
      #showcase
      {
-         background: url('hotel1.jpg')no-repeat center center/cover;
+         background: url('pexels-asad-photo-maldives-1287460.jpg')no-repeat center center/cover;
          height: 600px;
      }
      #showcase .showcase-content
@@ -153,7 +153,7 @@
      {
         float: left;
         width:50%;
-        background: url("habout1.jpg") no-repeat center center/cover;
+        background: url("pexels-rene-asmussen-2504911.jpg") no-repeat center center/cover;
         min-height: 100%;
      }
      #home-info .info-content
@@ -251,7 +251,7 @@
     #contact-form textarea:focus,#contact-form input:focus
     {
         outline: none;
-        border-color: #f7c08a;
+        border-color: #f69a3e;
     }
     /*footer*/
 #main-footer
